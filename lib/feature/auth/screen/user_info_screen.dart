@@ -47,8 +47,6 @@ class _UserInfoScreenState extends State<UserInfoScreen> {
               hintText: "Type your name here",
               textAlign: TextAlign.left,
               autoFocus: true,
-
-
              )),
              const SizedBox(width: 10,),
               Icon(Icons.emoji_emotions_outlined,color: context.theme.photoIconColor,),
